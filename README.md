@@ -1,2 +1,2 @@
 # BabyImageClassifier
-# Classifies image as containing a baby or not containing a baby.
+### Classifies image as containing a baby or not containing a baby.
